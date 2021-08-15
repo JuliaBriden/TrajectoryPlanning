@@ -1,1 +1,3 @@
 # TrajectoryPlanning
+
+Urban Air Mobility (UAM) addresses current challenges in ground transportation for highly-populated areas by providing manned and unmanned vehicles for city transportation services. To ensure safety during adverse weather conditions and reduce travel time, optimal trajectories must be developed for the fleet of aircraft. To address this challenge, solutions to the urban air mobility (UAM) trajectory planning version of the vehicle route planning problem were generated using simulated annealing. Optimal trajectories for multiple aircraft visiting a set of locations with weather-based constraints were found using the simulated annealing algorithm and compared to the solutions produced by the hill climbing algorithm.
